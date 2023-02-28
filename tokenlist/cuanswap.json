@@ -1,7 +1,7 @@
 {
   "name": "CuanSwap",
   "timestamp": "2022-05-01T00:00:00.000Z",
-  "logoURI": "https://app.cuanswap.com/tokenlogo/tokenlogo.png",
+  "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/tokenlogo.png",
   "version": {
     "major": 32,
     "minor": 18,
@@ -23,7 +23,7 @@
       "symbol": "CUAN",
       "decimals": 18,
       "chainId": 1116,
-      "logoURI": "https://app.cuanswap.com/tokenlogo/cuan.png"
+      "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/cuan.png"
     },
     
       {
@@ -41,7 +41,7 @@
       "symbol": "RECEH",
       "decimals": 18,
       "chainId": 1116,
-      "logoURI": "https://app.cuanswap.com/tokenlogo/receh.png"
+      "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/receh.png"
     }
   ]
 }
