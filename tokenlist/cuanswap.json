@@ -1,0 +1,48 @@
+{
+  "name": "CoreSwap",
+  "timestamp": "2022-05-01T00:00:00.000Z",
+  "logoURI": "https://app.cuanswap.com/tokenlogo/tokenlogo.png",
+  "version": {
+    "major": 32,
+    "minor": 18,
+    "patch": 15
+  },
+  "tokens": [
+    {
+      "name": "WCORE",
+      "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
+      "symbol": "WCORE",
+      "decimals": 18,
+      "chainId": 1116,
+      "logoURI": "https://assets.coingecko.com/coins/images/28938/small/coredao.png?1675503751"
+    },
+
+    {
+      "name": "CuanSwap",
+      "address": "0x28a4B79876220bBCf5917687e7B44977dE88aFD2",
+      "symbol": "CUAN",
+      "decimals": 18,
+      "chainId": 1116,
+      "logoURI": "https://app.cuanswap.com/tokenlogo/cuan.png"
+    },
+    
+      {
+      "name": "USDT",
+      "address": "0x9Ebab27608bD64AFf36f027049aECC69102a0D1e",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1116,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether.png?1668148663"
+    },
+
+    {
+      "name": "Recehan",
+      "address": "0x6FD25CAbbbe38F758bB1679128195Ec905E85bB5",
+      "symbol": "RECEH",
+      "decimals": 18,
+      "chainId": 1116,
+      "logoURI": "https://app.cuanswap.com/tokenlogo/receh.png"
+    }
+  ]
+}
+
