@@ -1,6 +1,6 @@
 {
   "name": "CuanSwap",
-  "timestamp": "2022-05-01T00:00:00.000Z",
+  "timestamp": "2023-02-01T00:00:00.000Z",
   "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/tokenlogo.png",
   "version": {
     "major": 32,
@@ -33,15 +33,6 @@
       "decimals": 6,
       "chainId": 1116,
       "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether.png?1668148663"
-    },
-
-    {
-      "name": "Recehan",
-      "address": "0x6FD25CAbbbe38F758bB1679128195Ec905E85bB5",
-      "symbol": "RECEH",
-      "decimals": 18,
-      "chainId": 1116,
-      "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/receh.png"
     }
   ]
 }
