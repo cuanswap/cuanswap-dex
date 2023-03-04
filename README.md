@@ -1,4 +1,4 @@
-#[b]CuanSwap App - Simple & Easy Dex Swap![/b]
+<strong>CuanSwap App - Simple & Easy Dex Swap!</strong>
 
 APP URL: https://app.cuanswap.com
 
