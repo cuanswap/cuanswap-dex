@@ -16,7 +16,6 @@
       "chainId": 1116,
       "logoURI": "https://assets.coingecko.com/coins/images/28938/small/coredao.png?1675503751"
     },
-
     {
       "name": "CuanSwap",
       "address": "0x28a4B79876220bBCf5917687e7B44977dE88aFD2",
@@ -25,7 +24,22 @@
       "chainId": 1116,
       "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/cuan.png"
     },
-    
+    {
+      "name": "cuanswap.com",
+      "address": "0x33d81E3F9D75D4c791b0399306C5CB11ec0f43a2",
+      "symbol": "CuanSwap",
+      "decimals": 18,
+      "chainId": 1116,
+      "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/cuanswap.png"
+    },
+    {
+      "name": "Recehan",
+      "address": "0x6FD25CAbbbe38F758bB1679128195Ec905E85bB5",
+      "symbol": "RECEH",
+      "decimals": 18,
+      "chainId": 1116,
+      "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/receh.png"
+    },
       {
       "name": "USDT",
       "address": "0x9Ebab27608bD64AFf36f027049aECC69102a0D1e",
