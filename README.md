@@ -1,4 +1,4 @@
-<strong>CuanSwap DEX - Simple & Easy Dex Swap!</strong>
+<strong>CuanSwap DEX - Simple & Easy Dex Swap on BSC, Polygon Network & Core Dao Chains!</strong>
 
 APP URL: https://cuanswap.xyz
 
