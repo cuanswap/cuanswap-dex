@@ -10,6 +10,8 @@ Multicall2: 0x3268DD5D89D9476CCB2cC2772AB6b215B9A53C72
 
 Weth9: 0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f
 
+HASH Pairs: 8d3a803a4751545baf7dc3525978e91fbbf84ecaad9c43316bbde4e7e91cbad5
+
 Twitter: https://twitter.com/cuanswap
 
 Telegram: https://t.me/cuanswap
