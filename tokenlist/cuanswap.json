@@ -1,7 +1,7 @@
 {
   "name": "CuanSwap",
   "timestamp": "2023-02-01T00:00:00.000Z",
-  "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/tokenlogo.png",
+  "logoURI": "https://raw.githubusercontent.com/cuanswap/dex/main/tokenlogo/tokenlogo.png",
   "version": {
     "major": 32,
     "minor": 18,
@@ -22,7 +22,7 @@
       "symbol": "CUAN",
       "decimals": 18,
       "chainId": 1116,
-      "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/cuan.png"
+      "logoURI": "https://raw.githubusercontent.com/cuanswap/dex/main/tokenlogo/cuan.png"
     },
     {
       "name": "cuanswap.com",
@@ -30,7 +30,7 @@
       "symbol": "CuanSwap",
       "decimals": 18,
       "chainId": 1116,
-      "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/cuanswap.png"
+      "logoURI": "https://raw.githubusercontent.com/cuanswap/dex/main/tokenlogo/cuanswap.png"
     },
     {
       "name": "Recehan",
@@ -38,7 +38,7 @@
       "symbol": "RECEH",
       "decimals": 18,
       "chainId": 1116,
-      "logoURI": "https://raw.githubusercontent.com/cuanswap/app/main/tokenlogo/receh.png"
+      "logoURI": "https://raw.githubusercontent.com/cuanswap/dex/main/tokenlogo/receh.png"
     },
       {
       "name": "USDT",
