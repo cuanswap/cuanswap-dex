@@ -17,12 +17,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/28938/small/coredao.png?1675503751"
     },
     {
-      "name": "CuanSwap",
+      "name": "Cuan Community",
       "address": "0x28a4B79876220bBCf5917687e7B44977dE88aFD2",
-      "symbol": "CUAN",
+      "symbol": "CUAN-C",
       "decimals": 18,
       "chainId": 1116,
-      "logoURI": "https://raw.githubusercontent.com/cuanswap/dex/main/tokenlogo/cuan.png"
+      "logoURI": "https://raw.githubusercontent.com/cuanswap/dex/main/tokenlogo/cuan-c.png"
     },
     {
       "name": "cuanswap.com",
