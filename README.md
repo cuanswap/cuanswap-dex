@@ -1,6 +1,6 @@
 <strong>CuanSwap DEX - Simple & Easy Dex Swap on BSC, Polygon Network & Core Dao Chains!</strong>
 
-APP URL: https://cuanswap.xyz
+APP URL: https://app.cuanswap.com
 
 CuanFactory: 0x23556027Ad3C3e76160AcA51e8098C395a6d815C
 
