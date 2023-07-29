@@ -11,3 +11,5 @@ Weth9: 0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f
 Twitter: https://twitter.com/cuanswap
 
 Telegram: https://t.me/cuanswap
+
+Learn: https://cuanswap.com/dex/
