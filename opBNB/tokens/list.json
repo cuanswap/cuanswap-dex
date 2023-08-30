@@ -1,0 +1,42 @@
+{
+  "name": "Uniswap Labs Default",
+  "timestamp": "2023-08-04T01:49:22.920Z",
+  "version": {
+    "major": 11,
+    "minor": 5,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 203,
+      "address": "0x47f63e5654db977c8bec9bd11928c4d517af7655",
+      "name": "CuanSwap.com",
+      "symbol": "CUAN",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27553.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1116": {
+            "tokenAddress": "0xb62FdF96Ee7483F6B930aDF4191E2259536f9868"
+          },
+          "137": {
+            "tokenAddress": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f"
+          },
+          "42161": {
+            "tokenAddress": "0x6314C31A7a1652cE482cffe247E9CB7c3f4BB9aF"
+          },
+          "43114": {
+            "tokenAddress": "0xd501281565bf7789224523144Fe5D98e8B28f267"
+          }
+        }
+      }
+    }
+
+ ]
+}
